@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/src/Week2ModifyJumpGravity/SimpleMovementJump/Content/Arial.spritefont","C:/src/Week2ModifyJumpGravity/SimpleMovementJump/Content/bin/Windows/Content/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21521,0.3400795
+"C:/src/Week2ModifyJumpGravity/SimpleMovementJump/Content/pacmanSingle.png","C:/src/Week2ModifyJumpGravity/SimpleMovementJump/Content/bin/Windows/Content/pacmanSingle.xnb","TextureProcessor","Texture2DContent",2204,11533,0.0139624
+"C:/src/Week2ModifyJumpGravity/SimpleMovementJump/Content/XavierLuigi.png","C:/src/Week2ModifyJumpGravity/SimpleMovementJump/Content/bin/Windows/Content/XavierLuigi.xnb","TextureProcessor","Texture2DContent",7530,343693,0.0149609
+"C:/src/Week2ModifyJumpGravity/SimpleMovementJump/Content/XavierMario.PNG","C:/src/Week2ModifyJumpGravity/SimpleMovementJump/Content/bin/Windows/Content/XavierMario.xnb","TextureProcessor","Texture2DContent",6040,266253,0.0099717

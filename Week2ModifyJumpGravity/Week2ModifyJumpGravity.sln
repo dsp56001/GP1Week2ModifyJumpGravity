@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMovementWGravity", "SimpleMovementWGravity\SimpleMovementWGravity.csproj", "{6987879B-44B4-461C-855B-761E9FD68B4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMovementJump", "SimpleMovementJump\SimpleMovementJump.csproj", "{FD912488-134B-46F0-AB29-C369C6FF60E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6987879B-44B4-461C-855B-761E9FD68B4D}.Debug|x86.ActiveCfg = Debug|x86
+		{6987879B-44B4-461C-855B-761E9FD68B4D}.Debug|x86.Build.0 = Debug|x86
+		{6987879B-44B4-461C-855B-761E9FD68B4D}.Release|x86.ActiveCfg = Release|x86
+		{6987879B-44B4-461C-855B-761E9FD68B4D}.Release|x86.Build.0 = Release|x86
+		{FD912488-134B-46F0-AB29-C369C6FF60E3}.Debug|x86.ActiveCfg = Debug|x86
+		{FD912488-134B-46F0-AB29-C369C6FF60E3}.Debug|x86.Build.0 = Debug|x86
+		{FD912488-134B-46F0-AB29-C369C6FF60E3}.Release|x86.ActiveCfg = Release|x86
+		{FD912488-134B-46F0-AB29-C369C6FF60E3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6B9C3E4-6977-44C0-8E58-2FE2CE58BC9B}
+	EndGlobalSection
+EndGlobal
